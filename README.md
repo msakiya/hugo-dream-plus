@@ -154,3 +154,6 @@ For more detailed instructions on how to contribute, refer to [**CONTRIBUTING.md
 
 ## License
 This theme is released under the [**MIT**](/LICENSE) license.
+
+Instalación: El tema puede ser instalado corriendo el comando dentro de la página de Hugo.
+
